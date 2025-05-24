@@ -1,7 +1,7 @@
 # ⚡Anime-API⚡
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,bun,hono,docker" />
+  <img src="https://skillicons.dev/icons?i=js,bun" />
   <br/>
 </p>
 <br/><br/>
@@ -10,14 +10,12 @@
 
 ## ⚡ Web Scraping Status
 
-# update 
-for fetch episodes list, servers and epsiodes please use this repo [this](https://github.com/yahyaMomin/getSources) becouse at current state BUN does not support brotlidecomprasion which is esential for live streaming 
 
 ## Index
 
-# for use this api first you have to deploy this project on your server. than replace baseurl to your original server url
+## for use this api first you have to deploy this project on your server. than replace baseurl to your original server url
 
-# and replace this url `https://hianime-api-production.up.railway.app` with your baseurl
+## and replace this url `https://hianime-api-production.up.railway.app` with your baseurl
 
 ## <span id="hianime">hianime</span>
 
